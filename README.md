@@ -44,4 +44,3 @@ My next milestone will be **specializing in backend development using C# and .NE
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aya-mahmoud-a03101326/)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram&style=for-the-badge)](https://t.me/Aya Mahmoud)
