@@ -1,9 +1,8 @@
-## Hi there 👋
-# Hey there, I'm [Aya Mahmoud] 👋
+## Hey there, I'm "Aya Mahmoud" 👋
 
-**Back_end Developer · CS Student .
+**soon**Back_end Developer · CS Student .
 
-💼 **Current:** Studing Backend @programmingadvises
+💼 **Current:** Studying Programming basics @programmingadvises
 ---
 ## 💫 About Me
 I'm **Aya Mahmoud**, a second-year student at the *Faculty of Computers and Artificial Intelligence, Benha University*.  
@@ -22,7 +21,7 @@ My next milestone will be **specializing in backend development using C# and .NE
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️Skills & Tools
 
 ### 🚩 Languages
 - C++ (basics)  
@@ -44,6 +43,5 @@ My next milestone will be **specializing in backend development using C# and .NE
   
 ## 🔗 Connect with Me
 
-[![LinkedIn]https://www.linkedin.com/in/aya-mahmoud-a03101326/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZMhgl8CxTXS2s41C%2FbeYzQ%3D%3D
-[![Telegram]https://t.me/AyaMahmoud
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aya-mahmoud-a03101326/)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram&style=for-the-badge)](https://t.me/AyaMahmoud)
