@@ -1,6 +1,6 @@
 ## Hey there, I'm "Aya Mahmoud" 👋
 
-**soon**Back_end Developer · CS Student .
+CS Student. **soon**Back_end Developer .
 
 💼 **Current:** Studying Programming basics @programmingadvises
 ---
@@ -26,7 +26,6 @@ My next milestone will be **specializing in backend development using C# and .NE
 ### 🚩 Languages
 - C++ (basics)  
 - C# (soon – backend specialization)  
-- Java (beginner)
 
 ### ⚡ Core Skills
 - Clean & readable code  
